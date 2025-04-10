@@ -1,20 +1,20 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![xzwbsz](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/xzwbsz)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+
+徐哲文，博士研究生，就读于吉林大学计算机科学与技术学院，博士生导师为魏晓辉教授。2020年4月，赴杭州华为研究所就高性能气候模拟软件CESM在鲲鹏集群上的优化部署展开项目合作；2023年9月，赴中科院大气物理研究所交流放学，合作导师为潘宝祥(Baoxiang Pan)副研究员。本人于吉林大学计算机科学与技术学院攻读硕士学位，硕士生导师为李洪亮副教授。曾获吉林大学校级奖学金、王湘浩励学金、优秀研究生干部、优秀班级干部等多项奖励和荣誉称号。
+
+研究兴趣主要包括：分布式系统、高性能计算、数据驱动天气预报、图神经网络等方向。
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>zwxu20@mails.jlu.edu.cn</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Jilin University**, 硕士研究生-计算机科学与技术 (2018 – 2020)  
+• 硕士阶段主攻高性能计算通信优化，尤其是在大规模并行气候模拟程序方面的性能优化探索。
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Jilin University**, 本科-核物理 (2014 – 2018)  
+• GPA: 2.9/4.0 (top 20%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+分布式系统、高性能计算、数据驱动天气预报、图神经网络等
