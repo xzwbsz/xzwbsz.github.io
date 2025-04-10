@@ -1,4 +1,4 @@
-[![xzwbsz](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/xzwbsz)
+[![xzwbsz](https://img.shields.io/badge/zhewen-github-blue?logo=github)](https://github.com/xzwbsz)
 
 
 徐哲文，博士研究生，就读于吉林大学计算机科学与技术学院，博士生导师为魏晓辉教授。2020年4月，赴杭州华为研究所就高性能气候模拟软件CESM在鲲鹏集群上的优化部署展开项目合作；2023年9月，赴中科院大气物理研究所交流放学，合作导师为潘宝祥(Baoxiang Pan)副研究员。本人于吉林大学计算机科学与技术学院攻读硕士学位，硕士生导师为李洪亮副教授。曾获吉林大学校级奖学金、王湘浩励学金、优秀研究生干部、优秀班级干部等多项奖励和荣誉称号。
